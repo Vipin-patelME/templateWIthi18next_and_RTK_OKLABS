@@ -21,9 +21,9 @@ const Header = () => {
                     <div className="col-12">
                         <nav className="main-nav">
                         {/* ***** Logo Start ***** */}
-                        <a href="index.html" className="logo">
+                        <Link to="/" className="logo">
                             <img src="assets/images/logo.png" alt style={{width: 158}} />
-                        </a>
+                        </Link>
                         {/* ***** Logo End ***** */}
                         {/* ***** Menu Start ***** */}
                         <ul className="nav">

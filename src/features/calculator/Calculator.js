@@ -12,7 +12,7 @@ const Calculator = () => {
     console.log(resultValue)
 
     return (
-        <div className="contact-page section" style={{display:"flex", alignItem:"center", justifyContent:"center"}}>
+        <div className="contact-page section main-banner" style={{display:"flex", alignItem:"center", justifyContent:"center"}}>
             <div className='cal-body'>
                 <img 
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbvs-M64aLq0qSF5jQNiI9rT5RGxR9B2Txw&usqp=CAU"
